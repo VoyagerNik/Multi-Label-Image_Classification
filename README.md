@@ -13,6 +13,7 @@ The project includes a Jupyter Notebook (`ML_img_classifier_project1.ipynb`) tha
 
 ## Structure
 
+```plaintext
 Multi-Label-Image-Classification/
 ├── README.md
 ├── LICENSE
@@ -27,6 +28,7 @@ Multi-Label-Image-Classification/
 │   │   └── make_dataset.py
 │   └── utils/
 │       └── helper_functions.py
+```
 
 ## Code Structure
 
